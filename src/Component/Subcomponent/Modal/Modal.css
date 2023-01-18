@@ -1,0 +1,34 @@
+.Main-Box{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+
+.Box-1{
+    width: 50%;
+    background-image: url("../../../Assets/Images/Logo/Logo2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 10px 0p 0px 10px;
+    
+    
+}
+
+
+.Box-2{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.Login-Btn{
+    background-color: #212D45;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px;
+    
+}
